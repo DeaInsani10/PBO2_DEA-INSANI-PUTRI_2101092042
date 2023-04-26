@@ -21,7 +21,7 @@ public class Deposit {
         a2.setAccountName("Dea");
         a2.setAccountNum(2101092042);
 
-        System.out.println("Anda mau melakukan transaksi : ");
+        System.out.println("Anda Mau Melakukan Transaksi : ");
         System.out.println("1. Penarikan \n2. Deposit \n3. Informasi Saldo");
         System.out.print("Pilihan : ");
         pil = s.nextInt();
